@@ -1,0 +1,7 @@
+*.csv
+lib/
+products_parquet/
+sales_parquet/
+sellers_parquet/
+__pycache__/
+
